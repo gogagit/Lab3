@@ -1,0 +1,8 @@
+.root { -fx-font-family: "Segoe UI"; -fx-font-size: 14; -fx-background-color: #f1f5f9; }
+.label { -fx-text-fill: #26354a; }
+.title { -fx-font-size: 25; -fx-font-weight: bold; -fx-text-fill: #183454; }
+.panel { -fx-background-color: white; -fx-background-radius: 10; -fx-padding: 14; }
+.button { -fx-cursor: hand; -fx-background-radius: 7; -fx-padding: 8 14; }
+.accent { -fx-background-color: #245c89; -fx-text-fill: white; }
+.text-area { -fx-font-family: "Segoe UI"; }
+.status { -fx-text-fill: #315a76; }
